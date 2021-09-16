@@ -1,0 +1,107 @@
+#h {
+    text-align: center;
+    text-decoration: underline;
+    color: gray;
+    padding: 20px;
+    text-decoration-color: red;
+    font-family: Arial;
+}
+
+.asideLeft {
+    /*left paraghrap property */
+    color: gray;
+    font-family: Rubik-Regular;
+    padding: 25px 0;
+    line-height: 25px;
+    font-size: .929em;
+    margin-left: 40px;
+    text-align: justify;
+}
+
+.asideRight {
+    /*To place at right corner box*/
+    float: sright;
+    width: 21%;
+    border: 1px
+}
+
+.asideLeft,
+.asideRight {
+    margin-top: 8px;
+    padding-bottom: 24px;
+}
+
+#asideRightId {
+    text-align: left;
+    margin-left: 70%;
+    padding: 5px;
+}
+
+txt-cap {
+    text-transform: capitalize;
+}
+
+* {
+    /*normal properties*/
+    margin: 5;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+user agent stylesheet aside {
+    display: block;
+}
+
+.c435061 {
+    color: black;
+}
+
+.ml30 {
+    color: gray;
+    padding: 25px;
+}
+
+.asideLeft {
+    float: left;
+    width: 65%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    display: block;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Rubik-Regular';
+    background-color: white;
+}
+
+newTheme .asideRight .takeALookInfoList {
+    border: 2px solid red;
+}
+
+.whiteBg {
+    background-color: white;
+}
+
+.asideRight .takeALookInfoList {
+    border: 2px solid gray;
+    padding: 30px 25px 80px 50px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    font-size: .929em;
+}
+
+.info {
+    border: 2px solid;
+    text-align: center;
+    background: red;
+    color: white;
+}

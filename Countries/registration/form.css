@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(247, 225, 109, 1) 0%, rgba(81, 116, 210, 0.8715861344537815) 47%, rgba(241, 241, 241, 1) 100%)
+}
+
+
+/* .container { */
+
+
+/* height: 50em; */
+
+
+/* width: 40em; */
+
+
+/* border: 2px solid black; */
+
+
+/* } */

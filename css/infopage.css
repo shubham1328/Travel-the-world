@@ -1,0 +1,67 @@
+*{
+	margin:10px;
+	padding:10px;
+	font-family:century Gothic;
+	
+	
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Night-in-San-Francisco-Pier-14-Free-Wallpapers-High-Resolution-for-Android-iPhone-and-Computers-3840x2160.jpg);
+		height:300vh;
+		background-size:auto;
+		background-position:all;
+}
+
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 10px;
+}
+
+ul li{
+	display:inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding:5px 10px;
+	border: 1px solid transparent;
+	transition:0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+	
+
+p { 	 
+	color: red; 
+	text-align:justify; 
+	margin: 10px;
+}
+
+.trv{
+	
+	color: white;
+	text-align:justify;
+	margin: 100px;
+
+}
+
+.relative{
+	position:relative;
+	top:10px;
+	
+	text-align: justify-all;
+	color:#fff;
+	}
